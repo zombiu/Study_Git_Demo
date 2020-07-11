@@ -8,6 +8,7 @@ import kotlinx.android.synthetic.main.activity_main.*
  * 
  * 对2.2的最终修改
  * 开始2.3的修改 ——错误修改
+ * 再次对2.3进行修改
  */
 class MainActivity : AppCompatActivity() {
 
