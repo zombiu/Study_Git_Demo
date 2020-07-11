@@ -5,8 +5,7 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 
 /**
- * 对2.2进行开发
- * 对master进行开发
+ * 最终修改
  */
 class MainActivity : AppCompatActivity() {
 
